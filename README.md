@@ -1,6 +1,6 @@
 # Summary
 
-Our repository consists of 2 notebooks and a pdf. The notebooks show our prediction and time series forecasting for covid-19 cases and deaths in the US states, along with some Exploratory data analysis and interesting correlation findings. The pdf has a much more detailed outline of visualizations and summarizes our methodology, workflow, and results, as well as a forecast of the covid deaths trajectory for the next 30 days. 
+Our repository consists of 2 notebooks and a pdf. The notebooks show our prediction and time series forecasting for covid-19 cases and deaths in the US states, along with some Exploratory data analysis and interesting correlation findings. The pdf (named Covid-19 UW Datathon (1).pdf) has a much more detailed outline of visualizations and summarizes our methodology, workflow, and results, as well as a forecast of the covid deaths trajectory for the next 30 days.
 
 # Goal
 
